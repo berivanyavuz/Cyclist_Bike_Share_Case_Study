@@ -26,6 +26,8 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
 
-  
+ ## [PREPARE]
+ 
+ The data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 
