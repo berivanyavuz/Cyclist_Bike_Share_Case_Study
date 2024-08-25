@@ -26,8 +26,21 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
 
- ## [PREPARE]
+ ## [PREPARE]()
  
- The data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+1.Cyclist historical trip data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+2. Data is collected since 2013 untill 2023 and organized monthly.
+3.The credibility of the data :
+  -Realaibility:We assume the data is realiable.
+  -Originality:The data is collected by the company so data is first hand.
+  -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of users,location and time.
+  -Current: This data is up to date.
+  -Cited: The data from Google Analytics Capstone and located at Amazon AWS.
+
+  
+
+
+
+ 
 
 
