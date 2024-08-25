@@ -11,7 +11,8 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 Moreno has set a clear goal: design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing Cyclistic's historical bike trip data to identify trends.
 
 In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked me with finding the differences between these user groups.  
-  [ASK](ASK)
+
+    ##[ASK](ASK)
 
 - What is the problem I am trying to be solve?
 
