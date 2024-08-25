@@ -12,7 +12,7 @@ Moreno has set a clear goal: design marketing strategies aimed at converting cas
 
 In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked me with finding the differences between these user groups.  
 
-    ##[ASK](ASK)
+    **[ASK](ASK)**
 
 - What is the problem I am trying to be solve?
 
