@@ -26,4 +26,6 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
 
+  
+
 
