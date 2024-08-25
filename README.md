@@ -11,3 +11,19 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 Moreno has set a clear goal: design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing Cyclistic's historical bike trip data to identify trends.
 
 In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked me with finding the differences between these user groups.
+
+##[ASK]
+
+- What is the problem I am trying to be solve?
+
+   Understanding how casual riders and annual members use Cyclistic bikes differently.
+  
+- Key Stakeholders:
+
+  1-Lily Moreno: The director of marketing who is responsible for developing campaigns and initiatives to promote the bike-sharing program.
+
+  2-Cyclistic marketing analytics team: This team is responsible for collecting, analyzing, and reporting data that guides Cyclistic's marketing strategy.
+
+  3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
+
+
