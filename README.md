@@ -43,6 +43,7 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
      -Current: This data is up to date.
   
      -Cited: The data from Google Analytics Capstone and located at Amazon AWS.
+     
 
   ## PROCESS
 
