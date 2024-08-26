@@ -20,11 +20,11 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
   
 - Key Stakeholders:
 
-  1-Lily Moreno: The director of marketing who is responsible for developing campaigns and initiatives to promote the bike-sharing program.
+   1-Lily Moreno: The director of marketing who is responsible for developing campaigns and initiatives to promote the bike-sharing program.
 
-  2-Cyclistic marketing analytics team: This team is responsible for collecting, analyzing, and reporting data that guides Cyclistic's marketing strategy.
+   2-Cyclistic marketing analytics team: This team is responsible for collecting, analyzing, and reporting data that guides Cyclistic's marketing strategy.
 
-  3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
+    3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
 
  ## [PREPARE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PREPARE.md)
  
