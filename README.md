@@ -51,10 +51,10 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   ## [PROCESS](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PROCESS.md)
 
-     -The tools that I choose for this project is BigQuery and Tableau. Because the data big for
+     - The tools that I choose for this project is BigQuery and Tableau. Because the data big for
       Excel or Spreadsheet.
 
-     -For being sure about data integrity we will chek:
+     - For being sure about data integrity we will chek:
      
         - Nulls
         - Duplicates
