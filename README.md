@@ -28,25 +28,25 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
  ## [PREPARE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PREPARE.md)
  
-1-Cyclist historical trip data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+   1-Cyclist historical trip data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
-2-Data is collected since 2013 untill 2023 and organized monthly.
+   2-Data is collected since 2013 untill 2023 and organized monthly.
 
-3-The credibility of the data :
+   3-The credibility of the data :
 
-  -Realaibility:We assume the data is realiable.
+     -Realaibility:We assume the data is realiable.
   
-  -Originality:The data is collected by the company so data is first hand.
+     -Originality:The data is collected by the company so data is first hand.
   
-  -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of users,location and time.
+     -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of users,location    and time.
   
-  -Current: This data is up to date.
+     -Current: This data is up to date.
   
-  -Cited: The data from Google Analytics Capstone and located at Amazon AWS.
+     -Cited: The data from Google Analytics Capstone and located at Amazon AWS.
 
   ## PROCESS
 
-  -The tools that I choose for this project is BigQuery and Tableau. Because the data big for Excel or Spreadsheet.
+  1-The tools that I choose for this project is BigQuery and Tableau. Because the data big for Excel or Spreadsheet.
 
   
 
