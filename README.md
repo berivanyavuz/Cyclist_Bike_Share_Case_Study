@@ -14,17 +14,20 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
 ## [ASK](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/ASK.md)
 
-- What is the problem I am trying to be solve?
+   - What is the problem I am trying to be solve?
 
    Understanding how casual riders and annual members use Cyclistic bikes differently.
   
-- Key Stakeholders:
+   - Key Stakeholders:
 
-   1-Lily Moreno: The director of marketing who is responsible for developing campaigns and initiatives to promote the bike-sharing program.
+      1-Lily Moreno: The director of marketing who is responsible for developing campaigns and
+     initiatives to promote the bike-sharing program.
 
-   2-Cyclistic marketing analytics team: This team is responsible for collecting, analyzing, and reporting data that guides Cyclistic's marketing strategy.
+      2-Cyclistic marketing analytics team: This team is responsible for collecting, analyzing,
+      and reporting data that guides Cyclistic's marketing strategy.
 
-    3-Cyclistic's executive team: This detail-oriented executive team will decide whether to approve the recommended marketing program.
+      3-Cyclistic's executive team: This detail-oriented executive team will decide whether to
+     approve the recommended marketing program.
 
  ## [PREPARE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PREPARE.md)
  
@@ -38,8 +41,8 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
   
      -Originality:The data is collected by the company so data is first hand.
   
-     -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of 
-     users,location and time.
+     -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and 
+     include all type of users,location and time.
   
      -Current: This data is up to date.
   
@@ -48,7 +51,8 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   ## PROCESS
 
-     1-The tools that I choose for this project is BigQuery and Tableau. Because the data big for Excel or Spreadsheet.
+     1-The tools that I choose for this project is BigQuery and Tableau. Because the data big for
+      Excel or Spreadsheet.
 
      2-For being sure about data integrity we will chek:
      
