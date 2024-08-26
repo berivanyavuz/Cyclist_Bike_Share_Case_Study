@@ -38,7 +38,8 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
   
      -Originality:The data is collected by the company so data is first hand.
   
-     -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of users,location    and time.
+     -Comprehensiveness:We assume the data is copmrehensive.(It is colleted from diffrent sources and include all type of 
+     users,location and time.
   
      -Current: This data is up to date.
   
