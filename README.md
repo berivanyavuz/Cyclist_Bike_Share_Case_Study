@@ -48,7 +48,15 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
   ## PROCESS
 
-  1-The tools that I choose for this project is BigQuery and Tableau. Because the data big for Excel or Spreadsheet.
+     1-The tools that I choose for this project is BigQuery and Tableau. Because the data big for Excel or Spreadsheet.
+
+     2-For being sure about data integrity we will chek:
+     
+        - Nulls
+        - Duplicates
+        - Checking Primary key for uniqness
+        - Checking data type compatability
+      
 
   
 
