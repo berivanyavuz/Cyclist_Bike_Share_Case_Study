@@ -1,0 +1,17 @@
+## EXPLORING DATA
+
+|Field Name|Type|Mode|
+|------|------|----|
+|ride_id|STRING|NULLABLE
+|rideable_type|STRING|NULLABLE
+|started_at|TIMESTAMP|NULLABLE
+|ended_at|TIMESTAMP|NULLABLE
+|start_station_name|STRING|NULLABLE
+|start_station_id|STRING|NULLABLE
+|end_stattion_name|STRING|NULLABLE
+|end_station_id|STRING|NULLABLE|
+|start_lat|FLOAT|NULLABLE|
+|start_lng|FLOAT|NULLABLE|
+|end_lat|FLOAT|NULLABLE|
+|end_lng|FLOAT|NULLABLE|
+|member_casual|STRING|NULLABLE|
