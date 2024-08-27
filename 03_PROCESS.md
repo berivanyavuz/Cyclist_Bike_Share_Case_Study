@@ -13,6 +13,31 @@
 3- **Data Exploration**
 
 - Cheking nulls
+
+ride_id_count = 16982657
+ride_id_null_count =	0
+rideable_type = 16982657
+rideable_type_null_count =	0
+started_at=  16982657
+started_at_null_count = 0
+start_station_name = 14583068
+start_station_name_null_count = 2399589
+start_station_id = 14582939
+start_station_id_null_count = 2399718
+end_station_name = 14421543
+end_station_name_null_count = 2561114
+end_station_id = 14421402
+end_station_id_null_count = 2561255
+start_lat = 16982657
+start_lat_null_count = 0
+start_lng = 16982657
+start_lng_null_count = 0
+end_lat = 16965038
+end_lat_null_count = 17619
+end_lng = 16965038
+end_lng_null_count = 17619
+member_casual = 16982657
+member_casual_null_count = 0
   
 - 
   
