@@ -8,7 +8,7 @@
  to discover the point of problem.
  At the end all years have been merged under the name "divvy_tripdata_21_22_23".
 
-    SQL Query : [Combining Data ](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Combining%20Data.sql)
+   SQL Query : [Combining Data ](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Combining%20Data.sql)
 
 3- **Data Exploration**
 
