@@ -11,5 +11,8 @@
     SQL Query : [Combining Data ](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Combining%20Data.sql)
 
 3- **Data Exploration**
+
+- Cheking nulls
+- 
   
   SQL Query : [Data Exploration]
