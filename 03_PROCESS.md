@@ -13,6 +13,7 @@
 3- **Data Exploration**
 
 - Cheking nulls
+  
 - 
   
   SQL Query : [Data Exploration]
