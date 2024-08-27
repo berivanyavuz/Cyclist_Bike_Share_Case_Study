@@ -1,5 +1,7 @@
 -- combining data
 -- I have made merging partly year by year. First I have merged as 2023,2022 and 2021.
+-- I have chosed this partitioning way because if there is some problmes at tables
+-- It is easier to discover the point of problem.
 -- At the end all years have been merged under the name "divvy_tripdata_21_22_23"
 
 -- combining 12 months data into a single table containing all data from Jan 2023 to Dec 2023 
@@ -86,4 +88,14 @@ UNION ALL
 SELECT * FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_202111
 UNION ALL
 SELECT * FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_202112;
+
+-- combining 3 years data into a single table containing all data from Jan 2021 to Dec 2023
+
+CREATE TABLE genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23 AS
+
+SELECT * FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.All_motnhs_2021
+UNION ALL
+SELECT * FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.All_motnhs_2022
+UNION ALL
+SELECT * FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.All_motnhs_2023;
 
