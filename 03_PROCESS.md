@@ -4,7 +4,7 @@
 
 2-**Combinig data**
 
-  SQL Query : [Data Combining]
+  SQL Query : [Data Combining](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Combining%20Data.sql)
 
 3-**Data Exploration**
   
