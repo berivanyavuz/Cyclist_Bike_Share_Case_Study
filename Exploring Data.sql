@@ -42,4 +42,16 @@ SELECT
 
   FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23;
 
+-- Checking duplicates from ride_id colum
+
+SELECT
+  ride_id,
+  COUNT(*) AS count
+FROM
+  genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23
+GROUP BY
+  ride_id
+HAVING
+  COUNT(*) > 1
+
 
