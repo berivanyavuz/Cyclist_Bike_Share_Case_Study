@@ -16,6 +16,4 @@
 
    SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
   
-   start_station_name_null_count = 2399589
-   
-   <img width="312" alt="Screenshot 2024-08-28 at 13 16 57" src="https://github.com/user-attachments/assets/ddb82e25-c494-4075-bdd2-50f766f26135">
+   <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
