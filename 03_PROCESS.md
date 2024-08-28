@@ -18,6 +18,4 @@
   
    <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
    
-
- [nulls_chart.pdf](https://github.com/user-attachments/files/16783086/nulls_chart.pdf)
-
+<img width="603" alt="nulls_perct" src="https://github.com/user-attachments/assets/e6fcecb3-f908-4c86-b52b-33e5c5b2b8f4">
