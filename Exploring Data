@@ -2,7 +2,7 @@
 
 -- There are 16982657 rows and 13 columns.
 
--- Checking **Null** Values for each column
+-- Checking Null Values for each column
 
 SELECT 
 
@@ -43,3 +43,5 @@ SELECT
   COUNTIF(member_casual IS NULL) AS member_casual_null_count,
 
   FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23;
+
+
