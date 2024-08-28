@@ -71,4 +71,21 @@ FROM
 WHERE
   LENGTH(ride_id) != 16;
 
+-- Checking how many rideable types
+
+SELECT 
+  rideable_type,
+  COUNT(*) AS count
+FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23
+GROUP BY rideable_type;
+
+-- Checking how many member types
+
+SELECT
+member_casual,
+COUNT (*) AS count
+FROM
+genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23
+GROUP BY
+member_casual;
 
