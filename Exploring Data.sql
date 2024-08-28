@@ -42,6 +42,7 @@ SELECT
 
   FROM genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23;
 
+
 -- Checking duplicates from ride_id colum
 
 SELECT
@@ -53,6 +54,7 @@ GROUP BY
   ride_id
 HAVING
   COUNT(*) > 1
+  
 
 -- Checking if there is any ride_id is not compatible.
 
@@ -70,6 +72,7 @@ FROM
   `genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23`
 WHERE
   LENGTH(ride_id) != 16;
+
 
 -- Checking how many rideable types
 
