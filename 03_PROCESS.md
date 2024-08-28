@@ -25,6 +25,11 @@ SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_
   - Cheking Duplicates
     The primary key in this data is the 'ride_id' column so we can check from this column for duplicates.
     Checked it and there is no duplicates.
+    
   - Checking is there any ride_id is not compatible with others.
+  
+  - Checking rideable types.
+    
+  - Checking member types.
    
 
