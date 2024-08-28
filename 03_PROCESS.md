@@ -39,5 +39,9 @@ SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_
     
     <img width="351" alt="member types" src="https://github.com/user-attachments/assets/6fe1aeeb-c533-4148-9251-e9d35febd707">
 
+  - started_atand ended_at columns have TIMESTAMP data type so we need to extract the months, days and hours.
+
+
+
    
 
