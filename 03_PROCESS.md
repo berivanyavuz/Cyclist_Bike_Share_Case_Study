@@ -17,3 +17,4 @@
    SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
   
    <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
+[nulls_chart.pdf](https://github.com/user-attachments/files/16782969/nulls_chart.pdf)
