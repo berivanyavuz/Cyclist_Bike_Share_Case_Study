@@ -12,9 +12,8 @@
 
 3- **Data Exploration**
 
-- Cheking nulls
+ - Cheking nulls
 
- [cyclist_exploration_nulls.pdf](https://github.com/user-attachments/files/16782441/cyclist_exploration_nulls.pdf)
-
+   SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
   
-  SQL Query : [Data Exploration]
+  
