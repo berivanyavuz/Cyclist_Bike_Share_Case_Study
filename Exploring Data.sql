@@ -54,4 +54,21 @@ GROUP BY
 HAVING
   COUNT(*) > 1
 
+-- Checking if there is any ride_id is not compatible.
+
+SELECT
+  ride_id,
+  LENGTH(ride_id) AS name_length
+FROM
+  genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23;
+
+
+SELECT
+  ride_id,
+  LENGTH(ride_id) AS name_length
+FROM
+  `genuine-ember-407810.Cyclist_Bike_Share_Case_Study.divvy_tripdata_21_22_23`
+WHERE
+  LENGTH(ride_id) != 16;
+
 
