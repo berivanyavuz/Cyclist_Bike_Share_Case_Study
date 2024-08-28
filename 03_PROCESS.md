@@ -19,7 +19,7 @@ SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_
   
    <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
    
-    <img width="593" alt="nulls_perc" src="https://github.com/user-attachments/assets/35a64d47-7849-425e-ab23-f6fd0254210f">
+   <img width="593" alt="nulls_perc" src="https://github.com/user-attachments/assets/35a64d47-7849-425e-ab23-f6fd0254210f">
     
 
   - Cheking Duplicates
