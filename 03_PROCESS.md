@@ -34,8 +34,9 @@ SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_
 
     <img width="348" alt="rideable_type" src="https://github.com/user-attachments/assets/d4a40545-2c04-430c-8859-052a52ee7727">
 
+  - Cheking how many of user types.
 
-
+    
     
    
 
