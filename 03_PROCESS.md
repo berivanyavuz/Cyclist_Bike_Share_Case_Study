@@ -14,8 +14,7 @@
 
 - Cheking nulls
 
-  
-- [cyclist_exploration_nulls.pdf](https://github.com/user-attachments/files/16782441/cyclist_exploration_nulls.pdf)
+ [cyclist_exploration_nulls.pdf](https://github.com/user-attachments/files/16782441/cyclist_exploration_nulls.pdf)
 
   
   SQL Query : [Data Exploration]
