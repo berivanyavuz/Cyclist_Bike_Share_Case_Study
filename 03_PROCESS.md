@@ -18,4 +18,5 @@
   
    <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
    
-[nulls_chart.pdf](https://github.com/user-attachments/files/16782969/nulls_chart.pdf)
+
+   ![nulls_chart](https://github.com/user-attachments/assets/31509161-0a95-4840-a82e-479fd85184a8)
