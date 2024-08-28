@@ -15,13 +15,13 @@
 SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
 
 
- 1- Cheking nulls
+  - Cheking nulls
   
    <img width="293" alt="Screenshot 2024-08-28 at 13 18 42" src="https://github.com/user-attachments/assets/d0684c5a-627a-4ee3-874a-6364fca2426d">
    
     <img width="593" alt="nulls_perc" src="https://github.com/user-attachments/assets/35a64d47-7849-425e-ab23-f6fd0254210f">
 
- 2- Cheking Duplicates
+  - Cheking Duplicates
     The primary key in this data is the 'ride_id' column so we can check from this column for duplicates.
     Checked it and there is no duplicates.
    
