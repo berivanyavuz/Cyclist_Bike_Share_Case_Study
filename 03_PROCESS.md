@@ -20,4 +20,4 @@
    
 
 
-<img width="603" alt="nulls_perct" src="https://github.com/user-attachments/assets/e6fcecb3-f908-4c86-b52b-33e5c5b2b8f4">
+   <img width="603" alt="nulls_perct" src="https://github.com/user-attachments/assets/e6fcecb3-f908-4c86-b52b-33e5c5b2b8f4">
