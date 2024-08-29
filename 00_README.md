@@ -65,8 +65,7 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
 
    - Data is cleaned, organized and formatted now.
    - 
-
-  
+--
 
 
 
