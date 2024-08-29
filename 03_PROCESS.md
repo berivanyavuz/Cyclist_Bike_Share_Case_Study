@@ -12,7 +12,7 @@
 
 3- **Data Exploration**
 
-SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
+   SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Exploring%20Data.sql)
 
 
   - Cheking nulls
@@ -41,6 +41,10 @@ SQL QUERY : [Exploring Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_
 
   - started_atand ended_at columns have TIMESTAMP data type so we need to extract the months, days and hours.
 
+    SQL QUERY : Cleaning Data
+
+    
+    
 
 
    
