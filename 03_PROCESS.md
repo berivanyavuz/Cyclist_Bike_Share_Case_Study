@@ -43,11 +43,11 @@
 
   4-  **CLEANING DATA**
 
-    SQL QUERY : [Cleaning Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Cleaning%20Data.sql)
+   SQL QUERY : [Cleaning Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Cleaning%20Data.sql)
     
   -  Exploring null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have nulls more
     
-    15%. We can't replace these null values so we sould remove them.
+     15%. We can't replace these null values so we sould remove them.
     
   - Creating a column for ride length.
 
