@@ -45,7 +45,7 @@
     
   - We have explored null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have nulls more
     
-    15%. So we clean these columns.
+    15%. So we are not going to take these columns into a new table.
 
     
     
