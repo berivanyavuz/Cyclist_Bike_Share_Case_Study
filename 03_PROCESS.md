@@ -49,13 +49,13 @@
 
    SQL QUERY : [Cleaning Data](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/Cleaning%20Data.sql)
     
-  - We can't replace these null values so we sould remove them.
+  - We can't replace these null values so we should remove them.
     
   - Creating a column for ride length.
 
   - Extracting days and months from started_at column then creating columns as day_of_week and month.
 
-  - Gathering data without nulls and the data that ride length is more than one minute and less than one day.
+  - Gathering data that ride length is more than one minute and less than one day.
 
   - 
 
