@@ -47,7 +47,7 @@
     
     15%. We can't replace these null values so we sould remove them.
     
-  - 
+  - We create a column for ride length.
 
     
     
