@@ -1,2 +1,2 @@
 - We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
-  - 
+- 
