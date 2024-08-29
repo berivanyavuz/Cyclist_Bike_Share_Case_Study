@@ -47,7 +47,7 @@
     
   -  Exploring null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have
 
-   nulls more 15%. We can't replace these null values so we sould remove them.
+      nulls more 15%. We can't replace these null values so we sould remove them.
     
   - Creating a column for ride length.
 
