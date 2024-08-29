@@ -49,7 +49,7 @@
     
   - Creating a column for ride length.
 
-  - Extracting days and months from started_at column.
+  - Extracting days and months from started_at column then creating columns as day_of_week and month.
 
   - Gathering data without nulls and the data that ride length is more than one minute and less than one day.
 
