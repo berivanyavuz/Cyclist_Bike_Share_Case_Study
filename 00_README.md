@@ -60,7 +60,11 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
         - Duplicates
         - Checking Primary key for uniqness
         - Checking data type compatability
-      
+
+   ## [ANALYZE]
+
+   - Data is cleaned, organized and formatted now.
+   - 
 
   
 
