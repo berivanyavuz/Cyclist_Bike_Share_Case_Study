@@ -41,7 +41,9 @@
 
   - started_atand ended_at columns have TIMESTAMP data type so we need to extract the months, days and hours.
 
-    SQL QUERY : Cleaning Data
+  4-  **CLEANING DATA**
+
+    SQL QUERY : [Cleaning Data](
     
   -  Exploring null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have nulls more
     
