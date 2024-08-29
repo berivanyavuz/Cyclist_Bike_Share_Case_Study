@@ -43,11 +43,17 @@
 
     SQL QUERY : Cleaning Data
     
-  - We have explored null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have nulls more
+  -  Exploring null values.  start_station_name, start_station_id, end_station_name and end_station_id columns have nulls more
     
     15%. We can't replace these null values so we sould remove them.
     
-  - We create a column for ride length.
+  - Creating a column for ride length.
+
+  - Extracting days and months from started_at column.
+
+  - Gathering data without nulls and the data that ride length is more than one minute and less than one day.
+
+  - 
 
     
     
