@@ -57,7 +57,7 @@
 
   - Gathering data that ride length is more than one minute and less than one day.
 
-  - 
+  - Creating table the data for the ride lenght is more than a day.
 
     
     
