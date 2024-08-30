@@ -49,7 +49,7 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
      -Cited: The data from Google Analytics Capstone and located at Amazon AWS.
      
 
-  ## [PROCESS](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PROCESS.md)
+  ## [PROCESS](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/03_PROCESS.md)
   
    - The tools that I choose for this project is BigQuery and Tableau. Because the data big for
        Excel or Spreadsheet.
