@@ -61,7 +61,7 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
         - Checking Primary key for uniqness
         - Checking data type compatability
 
-   ## [ANALYZE]
+   ## [ANALYZE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/04_ANALYZE.md)
 
    - Data is cleaned, organized and formatted now.
    - 
