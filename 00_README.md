@@ -29,7 +29,7 @@ In this scenario, I am a junior data analyst at Cyclistic, and Moreno has tasked
       3-Cyclistic's executive team: This detail-oriented executive team will decide whether to
      approve the recommended marketing program.
 
- ## [PREPARE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/PREPARE.md)
+ ## [PREPARE](https://github.com/berivanyavuz/Cyclist_Bike_Share_Case_Study/blob/main/02_PREPARE.md)
  
    - Cyclist historical trip data is stored [divy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
