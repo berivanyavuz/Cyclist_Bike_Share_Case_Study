@@ -2,7 +2,7 @@
 
 - Data is organized and formated.
 
--In overview for checking the user number is getting decrease.
+- In overview for checking the user number is getting decrease.
 
     -In 2021  4,527,016 users,
               2,500,587 members,
