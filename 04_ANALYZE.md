@@ -1,6 +1,6 @@
 - We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
-  
-
+- 
+## Yearly
 
 ![year_perc_line](https://github.com/user-attachments/assets/e505e05c-30d2-490a-b36c-3f1894333683)
 
@@ -14,12 +14,16 @@
 - Members don't use docked bike, they use only classic and electric bike.
 
 
-![Total Ride Number](https://github.com/user-attachments/assets/3fcec36c-3ae1-43b8-8cb1-aa5200076494)
+## Monthly
 
-- We examine the users montly,daily and hourly.
+
+![Monthly](https://github.com/user-attachments/assets/4d66c5f8-f5d3-4978-a888-bef9a6e56a92)
 
    - The best season is summer for two types of user.
    - The best month for members is August, for casuals is July.
+
+    ![Daily](https://github.com/user-attachments/assets/cedf0f81-0e77-4935-85d2-3b4a462aaf37)
+
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
 
      So members more active weekdays, casuals more active weekends.
