@@ -63,6 +63,10 @@
    - So we can think members use bikes as commuter.
 
 
+![Average Ride Length](https://github.com/user-attachments/assets/07e10dee-2754-4a63-b63a-32b2338c1d20)
+
+
+
 
 
 
