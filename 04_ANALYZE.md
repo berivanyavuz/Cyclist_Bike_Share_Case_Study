@@ -16,11 +16,14 @@
 
 - We examine the users montly,daily and hourly.
 
-   - As a seaseon the best season is summer for two types of user.
+   - The best season is summer for two types of user.
    - The best month for members is August, for casuals is July.
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
+
      So members more active weekdays, casuals more active weekends.
-   - 
+   - The best hours for members 8 am and 2-5 pm and the peak time is 5 pm.
+
+     For casuals 12am-5pm is the best hours and the peak time is 5 pm.
 
 
 ![Average Ride Length](https://github.com/user-attachments/assets/1fd8eba0-cdef-4d5a-9203-36d6b511b058)
