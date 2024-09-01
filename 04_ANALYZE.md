@@ -22,7 +22,7 @@
    - The best season is summer for two types of user.
    - The best month for members is August, for casuals is July.
 
-    ![Daily](https://github.com/user-attachments/assets/cedf0f81-0e77-4935-85d2-3b4a462aaf37)
+![Daily](https://github.com/user-attachments/assets/cedf0f81-0e77-4935-85d2-3b4a462aaf37)
 
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
 
