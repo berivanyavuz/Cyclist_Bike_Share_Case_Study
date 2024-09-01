@@ -19,9 +19,6 @@
 
 
 ### Monthly
-![Monthly_tablet](https://github.com/user-attachments/assets/bc4c4e34-af6c-4fdc-85e5-c35436b88020)
-
-![Monthly_desktop](https://github.com/user-attachments/assets/401b6610-6171-417c-b118-bc4fac6bf8bb)
 
 ![Monthly](https://github.com/user-attachments/assets/4d66c5f8-f5d3-4978-a888-bef9a6e56a92)
 
