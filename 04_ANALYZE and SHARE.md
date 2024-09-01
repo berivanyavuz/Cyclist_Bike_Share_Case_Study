@@ -1,5 +1,7 @@
 ## Analyze and Share
 
+- After data is analyzed in BigQuery it's visiulaised in Tableau Public.
+- [Tableau](https://public.tableau.com/app/profile/berivan.yavuz/viz/Cyclistic_Bike_Share_Case_Study_17252002677690/Story1)
 - Data is organized and formated.
 
 - In overview for checking the user number is getting decrease.
