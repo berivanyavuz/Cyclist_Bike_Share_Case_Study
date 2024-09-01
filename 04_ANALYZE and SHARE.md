@@ -61,9 +61,10 @@
      For casuals 12am-5pm is the best hours and the peak time is 5 pm.
      
    - So we can think members use bikes as commuter.
+   - 
 
+![Average Ride Length](https://github.com/user-attachments/assets/18e53522-0965-43a6-b792-48025974be60)
 
-![Average Ride Length](https://github.com/user-attachments/assets/07e10dee-2754-4a63-b63a-32b2338c1d20)
 
 - Average ride duration is generally same for  members but casuals it chages monthly, daily and hourly.
 
