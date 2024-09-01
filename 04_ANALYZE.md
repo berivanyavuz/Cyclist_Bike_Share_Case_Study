@@ -2,7 +2,7 @@
   
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
    
-![years_perc](https://github.com/user-attachments/assets/d5068892-ae18-4fa4-9306-27e5650c4fb2)
+![years_perc](https://github.com/user-attachments/assets/184179f4-6af1-463e-a78c-9a3541858f29)
 
 
 
