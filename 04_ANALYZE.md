@@ -1,4 +1,12 @@
 ## Analyze
+
+Data is organized and formatedd.
+In overview 
+    -In 2021  4,527,016 users
+              2,500,587 members
+              2,026,429 casuals
+
+
 ### Bike Type
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
