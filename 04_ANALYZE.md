@@ -1,13 +1,19 @@
 ## Analyze
 
--Data is organized and formated.
+- Data is organized and formated.
+- As data we have
 
 -In overview 
 
-    -In 2021  4,527,016 users
-              2,500,587 members
-              2,026,429 casuals
-
+    -In 2021  4,527,016 users,
+              2,500,587 members,
+              2,026,429 casuals,
+    -In 2022  4,291,805 users,
+              2,560,986 members,
+              1,730,819 casuals,
+    -In 2023  4,243,431 users,
+              2,738,451 members,
+              1,504,981 casuals,
 
 ### Bike Type
 
