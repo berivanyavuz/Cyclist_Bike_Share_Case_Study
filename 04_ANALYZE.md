@@ -2,7 +2,7 @@
 
 - Data is organized and formated.
 
--In overview for years user number is getting decrease.
+-In overview for checking the user number is getting decrease.
 
     -In 2021  4,527,016 users,
               2,500,587 members,
@@ -20,10 +20,9 @@
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
 
-- Members don't use docked bike, they use only classic and electric bike.
+- Members don't use docked bike, they use only classic and electric bike. Members mostly use classic bike.
+- Casuals use all the types. They use mostly classic bike then electric bike and lastly docked bike.
 
-- 
-- We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
 - 
 ### Yearly
 
@@ -31,6 +30,7 @@
 
 
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
+  
   From the chart we see the casuals decrease and members increase.
 
 
@@ -39,8 +39,12 @@
 
 ![Monthly](https://github.com/user-attachments/assets/4d66c5f8-f5d3-4978-a888-bef9a6e56a92)
 
-   - The best season is summer for two types of user.
+   - The best season is summer for two types of user. It's going in order spring and winter.
+     
    - The best month for members is August, for casuals is July.
+
+   - The gap between members and casuals getting smaller in July.
+     
    - 
 ### Daily
 
