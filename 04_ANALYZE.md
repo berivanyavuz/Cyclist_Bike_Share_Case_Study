@@ -1,10 +1,9 @@
 - We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
   
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
-   
+  
 
-![yearly_user (1)](https://github.com/user-attachments/assets/beeb7513-41eb-4af7-b5af-ac1a4073bf69)
-
+![yearly_user ](https://github.com/user-attachments/assets/263c3eab-692e-4107-a341-2015ebb01f12)
 
 
 
