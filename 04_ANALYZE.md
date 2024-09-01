@@ -1,6 +1,7 @@
 - We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
   
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
+  From the chart we see the casuals decrease and members increase.
   
 
 ![yearly_user ](https://github.com/user-attachments/assets/263c3eab-692e-4107-a341-2015ebb01f12)
