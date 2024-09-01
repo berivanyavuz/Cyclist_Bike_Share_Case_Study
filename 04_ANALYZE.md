@@ -65,6 +65,17 @@
 
 ![Average Ride Length](https://github.com/user-attachments/assets/07e10dee-2754-4a63-b63a-32b2338c1d20)
 
+    - Average ride duration is generally same for  members but casuals it chages monthly, daily and hourly.
+
+    - Casuals take long rides in March, April, May and July. Weekend has longer average ride durat,on than weekdays.
+
+      In day time 10 am - 2 pm has the longest duration.
+
+      So we might conculde casuals use Cyclist for leisure.
+
+     As a conclusion ride duration is almost two yimes longer for casual but frequency is more for members.
+    
+
 
 
 
