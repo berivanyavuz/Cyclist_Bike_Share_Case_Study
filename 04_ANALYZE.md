@@ -9,7 +9,7 @@
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
 
-- Members don't use docked bike 
+- Members don't use docked bike, they use only classic and electric bike.
 
 
 ![Total Ride Number](https://github.com/user-attachments/assets/3fcec36c-3ae1-43b8-8cb1-aa5200076494)
