@@ -14,6 +14,14 @@
 
 ![Total Ride Number](https://github.com/user-attachments/assets/3fcec36c-3ae1-43b8-8cb1-aa5200076494)
 
+- We examine the users montly,daily and hourly.
+
+   - As a seaseon the best season is summer for two types of user.
+   - The best month for members is August, for casuals is July.
+   - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
+     So members more active weekdays, casuals more active weekends.
+   - 
+
 
 ![Average Ride Length](https://github.com/user-attachments/assets/1fd8eba0-cdef-4d5a-9203-36d6b511b058)
 
