@@ -1,8 +1,9 @@
 - We analyze the data in the wiev of user type because our goal is discovering the difference between user types.
   
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
-   2021 members = 55.23%
    
+![years_perc](https://github.com/user-attachments/assets/d5068892-ae18-4fa4-9306-27e5650c4fb2)
+
 
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
