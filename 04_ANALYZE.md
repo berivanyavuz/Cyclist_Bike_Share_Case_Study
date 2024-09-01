@@ -51,7 +51,7 @@
 
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
 
-     So members more active weekdays, casuals more active weekends.
+   -  So members more active weekdays, casuals more active weekends.
 
 
 #### Hourly
