@@ -2,7 +2,7 @@
   
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
    
-![years_perc](https://github.com/user-attachments/assets/184179f4-6af1-463e-a78c-9a3541858f29)
+![yearly_perc](https://github.com/user-attachments/assets/cfa6c9fb-e702-49a3-91a8-b998630673e4)
 
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
