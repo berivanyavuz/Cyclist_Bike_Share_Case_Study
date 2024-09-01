@@ -22,6 +22,8 @@
 - Members don't use docked bike, they use only classic and electric bike. Members mostly use classic bike.
 - Casuals use all the types. They use mostly classic bike then electric bike and lastly docked bike.
 
+  
+
 
 ![year_perc_line](https://github.com/user-attachments/assets/e505e05c-30d2-490a-b36c-3f1894333683)
 
