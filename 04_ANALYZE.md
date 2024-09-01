@@ -1,4 +1,5 @@
-## Bike Type
+## Analyze
+### Bike Type
 
 ![bike type](https://github.com/user-attachments/assets/9cd745ea-4d73-4c2c-8e75-efb567fde875)
 
