@@ -32,7 +32,7 @@
 
 - We have data for 2021,2022 and 2023. Firstly we checked the ratio of membership.
   
-  From the chart we see the casuals decrease and members increase.
+  As we see on the second chart the casuals decrease and members increase.
 
 
 
