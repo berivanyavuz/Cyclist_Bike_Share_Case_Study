@@ -21,12 +21,18 @@
 
    - The best season is summer for two types of user.
    - The best month for members is August, for casuals is July.
+   - 
+## Daily
 
 ![Daily](https://github.com/user-attachments/assets/cedf0f81-0e77-4935-85d2-3b4a462aaf37)
 
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
 
      So members more active weekdays, casuals more active weekends.
+## Hourly
+
+![Hourly](https://github.com/user-attachments/assets/f856bd6f-41e4-4c93-aa52-1db146c6ab29)
+
    - The best hours for members 8 am and 2-5 pm and the peak time is 5 pm.
 
      For casuals 12am-5pm is the best hours and the peak time is 5 pm.
