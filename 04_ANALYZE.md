@@ -69,11 +69,11 @@
 
 - Casuals take long rides in March, April, May and July. Weekend has longer average ride durat,on than weekdays.
 
-  In day time 10 am - 2 pm has the longest duration.
+- In day time 10 am - 2 pm has the longest duration.
 
-  So we might conculde casuals use Cyclist for leisure.
+- So we might conculde casuals use Cyclist for leisure.
 
-  As a conclusion ride duration is almost two yimes longer for casual but frequency is more for members.
+- As a conclusion ride duration is almost two yimes longer for casual but frequency is more for members.
     
 
 
