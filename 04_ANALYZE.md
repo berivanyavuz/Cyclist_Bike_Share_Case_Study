@@ -59,6 +59,8 @@
    - The best hours for members 8 am and 2-5 pm and the peak time is 5 pm.
 
      For casuals 12am-5pm is the best hours and the peak time is 5 pm.
+     
+   - So we can think members use bikes as commuter.
 
 
 
