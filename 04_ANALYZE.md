@@ -41,7 +41,7 @@
      For casuals 12am-5pm is the best hours and the peak time is 5 pm.
 
 
-![Average Ride Length](https://github.com/user-attachments/assets/1fd8eba0-cdef-4d5a-9203-36d6b511b058)
+
 
 
 
