@@ -24,7 +24,7 @@
 - Casuals use all the types. They use mostly classic bike then electric bike and lastly docked bike.
 
 - 
-### Yearly
+### Yearly Total Ride for Users
 
 ![year_perc_line](https://github.com/user-attachments/assets/e505e05c-30d2-490a-b36c-3f1894333683)
 
@@ -35,27 +35,27 @@
 
 
 
-### Monthly
+### Total Ride For Users
 
-![Monthly](https://github.com/user-attachments/assets/4d66c5f8-f5d3-4978-a888-bef9a6e56a92)
+![Total Ride Number](https://github.com/user-attachments/assets/3f8aadd6-cf01-4eb1-8770-e0bf98b1d81a)
+
+
+#### Monthly
 
    - The best season is summer for two types of user. It's going in order spring and winter.
      
    - The best month for members is August, for casuals is July.
 
    - The gap between members and casuals getting smaller in July.
-     
-   - 
-### Daily
 
-![Daily](https://github.com/user-attachments/assets/cedf0f81-0e77-4935-85d2-3b4a462aaf37)
+#### Daily
 
    - The days for members Tuesday-Wednesday_Thursday, for casuals Saturday and Sunday.
 
      So members more active weekdays, casuals more active weekends.
-### Hourly
 
-![Hourly](https://github.com/user-attachments/assets/f856bd6f-41e4-4c93-aa52-1db146c6ab29)
+
+#### Hourly
 
    - The best hours for members 8 am and 2-5 pm and the peak time is 5 pm.
 
