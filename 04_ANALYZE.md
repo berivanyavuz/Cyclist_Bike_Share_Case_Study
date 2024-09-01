@@ -36,8 +36,6 @@
 
 
 
-### Total Ride For Users
-
 ![Total Ride Number](https://github.com/user-attachments/assets/3f8aadd6-cf01-4eb1-8770-e0bf98b1d81a)
 
 
