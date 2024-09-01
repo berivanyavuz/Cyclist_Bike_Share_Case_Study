@@ -5,9 +5,7 @@
 -In overview 
 
     -In 2021  4,527,016 users
-    
               2,500,587 members
-              
               2,026,429 casuals
 
 
